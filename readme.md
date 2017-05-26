@@ -29,14 +29,14 @@ Service Provider
 Usage
 =====
 
-In Browser Url \n
-point_your_project + calculator \n
+In Browser Url <br />
+point_your_project + calculator <br />
 point_your_project + add/number1/number2
 
 Example
 =======
-In Browser Url \n
-localhost:8000/calculator \n
+In Browser Url <br />
+localhost:8000/calculator <br />
 localhost:8000/add/1/2
 
 
