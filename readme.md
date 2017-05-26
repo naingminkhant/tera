@@ -13,7 +13,6 @@ Just install the package, add the config and it is ready to use!
 Requirements
 ============
 
-* PHP >= 5.0
 * "laravel/framework": "^5.0.*",
 
 Quick Installation
